@@ -1,0 +1,36 @@
+[
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-681145630",
+  "source": {
+   "name": "Q1",
+   "showName": true,
+   "instructions": "If a device is having problems, which is not a step in troubleshooting?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "dd380aca-e1d7-453e-8366-ab79007b06ed",
+     "correct": false,
+     "answer": "Turning it off then back on"
+    },
+    {
+     "_id": "a2ce9e25-3e34-8413-4361-f9525c542fc7",
+     "correct": false,
+     "answer": "Checking network connections"
+    },
+    {
+     "_id": "3a2f64ec-9e09-01fe-bead-524361655ccf",
+     "correct": true,
+     "answer": "Clicking lots of random places until it responds"
+    },
+    {
+     "_id": "db77fdab-e642-69a0-1dca-4376bd891388",
+     "correct": false,
+     "answer": "Replacing components to find the part that is not working"
+    }
+   ]
+  }
+ }
+]

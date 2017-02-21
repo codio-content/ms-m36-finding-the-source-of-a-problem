@@ -1,0 +1,86 @@
+{
+ "sections": [
+  {
+   "id": "2f959810-ad34-b4c4-02e3-aea24f7960db",
+   "title": "Troubleshooting",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Troubleshooting-2f95.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e1d5136b-87d8-a2af-4690-5e114a9b1b13",
+   "title": "Check Each Component",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Check-Each-Component-e1d5.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9b749bd4-1340-ba22-523a-d1e1fb0df858",
+   "title": "Check Software Settings",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Check-Software-Settings-9b74.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "60522ce2-c6f8-d376-6e5f-6c1ec9886663",
+   "title": "Restart Device",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Restart-Device-6052.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "e032468a-f141-06cc-8d42-7a690d5a28ec",
+   "title": "Check All Connections",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Check-All-Connections-e032.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d39a81a0-a670-2175-1d92-60ba0f012f8e",
+   "title": "Swap Components",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Swap-Components-d39a.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "b269eeb0-deea-2e58-4ac2-2477dc49d12d",
+   "title": "Challenge",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Challenge-b269.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": "",
+ "suppressPageNumbering": false
+}
